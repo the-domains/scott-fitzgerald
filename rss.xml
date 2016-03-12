@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Scott Fitzgerald]]></title>
-        <description><![CDATA[Scott Fitzgerald]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Twin Cities Real Estate]]></title>
+        <description><![CDATA[Twin Cities Real Estate]]></description>
+        <link>https://thegrid.ai/scott-fitzgerald/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 19:00:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 19:42:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scott-fitzgerald/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robin N Scott]]></title>
+            <description><![CDATA[<article><h1>Robin N Scott</h1><p>At 2nd Chance Youth Ranch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52da490b3a1aced2dec085538196f23a5f1754b1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scott-fitzgerald/robin-n-scott/index.html</link>
+            <guid isPermaLink="false">e3204530-3b87-4873-b967-4cdc4b7ff94d</guid>
+            <pubDate>Sat, 12 Mar 2016 19:42:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a08c856-0a1f-477f-9b4d-cd2163a78aa4.jpg">]]></description>
-            <link>undefinedthe-real-estate-market-in-the-twin-cities-is-really-heating/index.html</link>
+            <link>https://thegrid.ai/scott-fitzgerald/the-real-estate-market-in-the-twin-cities-is-really-heating/index.html</link>
             <guid isPermaLink="false">8690b12d-755e-4291-a0bd-43b9200f1d3f</guid>
             <pubDate>Sat, 12 Mar 2016 19:00:24 GMT</pubDate>
         </item>
